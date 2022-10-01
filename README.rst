@@ -1,17 +1,16 @@
 ###########################################
-Style guide for Sphinx-based documentations
+Nada Dering WA Sebut Nama Sendiri
 ###########################################
 
-This project is about coding standards for `Sphinx`_-based documentations.
-
+Tutorial nada dering wa yang bisa menyebutkan nama pengirim pesan ataupun pemanggil telepon WhatsApp menggunakan tools sound of text.
 
 **********
 Ressources
 **********
 
-* `online documentation`_
-* `code repository`_
-* `bugtracker`_
+* `Nada dering wa sebut nama`_
+* `Sound of text sebut nama`_
+* `Suara Google sebut nama sendiri`_
 
 
 **********
@@ -20,10 +19,10 @@ References
 
 .. target-notes::
 
-.. _`Sphinx`: http://sphinx.pocoo.org
-.. _`code repository`: 
-   https://github.com/benoitbryon/documentation-style-guide-sphinx
-.. _`bugtracker`: 
-   https://github.com/benoitbryon/documentation-style-guide-sphinx/issues
-.. _`online documentation`:
-   http://documentation-style-guide-sphinx.readthedocs.org/
+.. _`Nada dering wa sebut nama`: https://www.autobild.co.id/2022/09/cara-download-nada-dering-wa-sebut-nama.html
+.. _`Sound of text sebut nama`: 
+   https://www.teknotuf.com/nada-dering-sound-of-text-sebut-nama/
+.. _`Suara Google sebut nama sendiri`: 
+   https://www.sebuahutas.com/nada-dering-wa-sebut-nama/
+.. _`Nada pesan sebut nama`:
+   https://www.statmat.net/download-nada-dering-sebut-nama/

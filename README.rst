@@ -21,7 +21,7 @@ References
 
 .. _`Nada dering wa sebut nama`: https://www.autobild.co.id/2022/09/cara-download-nada-dering-wa-sebut-nama.html
 .. _`Sound of text sebut nama`: 
-   https://www.teknotuf.com/nada-dering-sound-of-text-sebut-nama/
+   https://www.teknotuf.com/nada-dering-wa-sebut-nama/
 .. _`Suara Google sebut nama sendiri`: 
    https://www.sebuahutas.com/nada-dering-wa-sebut-nama/
 .. _`Nada pesan sebut nama`:

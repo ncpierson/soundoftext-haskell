@@ -21,7 +21,7 @@ References
 
 .. _`Nada dering wa sebut nama`: https://www.pelita.or.id/suara-nada-dering-wa-sebut-nama/
 .. _`Sound of text sebut nama`: 
-   https://www.teknotuf.com/nada-dering-wa-sebut-nama/
+   https://www.emzeth.com/nada-dering-wa-sebut-nama-pengirimnya/
 .. _`Suara Google sebut nama sendiri`: 
    https://www.sebuahutas.com/nada-dering-wa-sebut-nama/
 .. _`Nada pesan sebut nama`:
